@@ -1,0 +1,9 @@
+# database host
+DB_HOST = "localhost"
+DB_USER = "root"
+DB_PORT = 3306
+DB_NAME = "reservation"
+DB_PASSWORD = "147258369"
+# server host
+HOST = "localhost"
+PORT = "5000"
